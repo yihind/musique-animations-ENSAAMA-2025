@@ -1,0 +1,16 @@
+header{
+    position: relative;
+    top: 0px;
+    border : 2px solid black;
+    padding: 5px;
+    width: 100vw;
+    display: flex;
+}
+
+
+/* à  mettre pour mettre une image 
+body{
+    background-image: url('../img/pande.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/
